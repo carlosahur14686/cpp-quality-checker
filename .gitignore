@@ -1,0 +1,21 @@
+# Compiled binaries
+quality_checker
+quality_checker.exe
+*.o
+*.obj
+*.out
+*.exe
+
+# Build folders
+build/
+cmake-build-*/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
